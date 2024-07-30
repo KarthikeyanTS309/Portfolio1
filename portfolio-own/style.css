@@ -1,0 +1,42 @@
+#name{
+    margin-top:30px;
+    font-size:28px;
+    color:rgba(0, 0, 0, 0.359)
+
+}
+body{
+    background-color: rgb(253, 163, 253);
+    background-image: url();
+    font-size: large;
+   
+}
+.ptag{
+    font-style: italic;
+   
+}
+#name:hover{
+    font-size: 30px;
+    color:black;
+}
+#but{
+    margin-left: 45%;
+}
+body h3{
+    text-align:center;
+}
+#aside{
+    float:left;
+    font-size:22px;
+
+}
+#sect{
+    margin-left:30%;
+    font-size:22px;
+    float:left;
+}
+
+#div1{
+    margin-left:30%;
+    font-size:22px;
+    float:left;
+}
